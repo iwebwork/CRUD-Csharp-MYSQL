@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testeCRUDOOP", "testeCRUDOOP.csproj", "{878D707E-2003-408B-95C5-B5D504AA3085}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{878D707E-2003-408B-95C5-B5D504AA3085}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{878D707E-2003-408B-95C5-B5D504AA3085}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{878D707E-2003-408B-95C5-B5D504AA3085}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{878D707E-2003-408B-95C5-B5D504AA3085}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EBE8CE35-A28D-48BA-B73A-FBB47C4359BA}
+	EndGlobalSection
+EndGlobal
